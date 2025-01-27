@@ -3,6 +3,8 @@
 
 I am a newly graduated Software Engineer (class of 2024) based in Sweden. My primary expertise lies in backend development, but I am always eager to expand my skill set. I thrive on tackling programming challenges that push me out of my comfort zone, allowing me to discover innovative and efficient solutions while continually learning and growing.
 
+I’m currently working on remaking some of my school assignments. I want to see how my experience has improved my skills and approach to solving problems compared to when I first completed them.  
+
 ## Ways to connect!
 [<img src="https://img.shields.io/badge/-LinkedIn-BA1114?logo=linkedin&logoColor#0072b1&style=for-the-badge&logoWidth=30" alt="LinkedIn">](https://www.linkedin.com/in/jean-paul-hanna-0a29b617a/) 
 
@@ -23,6 +25,7 @@ I am a newly graduated Software Engineer (class of 2024) based in Sweden. My pri
 - [Distributed systems Assignment](https://github.com/Arnith86/DSAssignment)
 - [Thesis Scheduling Job Order Balancing](https://github.com/SweGuitar10/Scheduling-Job-Order-Balancing)
 - [Programming Challenges and Aptitude tests](https://github.com/Arnith86/ProgrammingChallenges)
+- [Fundamental Programming - Assignment 1](https://github.com/Arnith86/TrowingDice)
 
 <!--
 **Arnith86/Arnith86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
