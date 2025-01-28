@@ -25,7 +25,7 @@ I’m currently working on remaking some of my school assignments. I want to see
 - [Distributed systems Assignment](https://github.com/Arnith86/DSAssignment)
 - [Thesis Scheduling Job Order Balancing](https://github.com/SweGuitar10/Scheduling-Job-Order-Balancing)
 - [Programming Challenges and Aptitude tests](https://github.com/Arnith86/ProgrammingChallenges)
-- [Fundamental Programming - Assignment 1](https://github.com/Arnith86/TrowingDice)  *Being worked on
+- [Fundamental Programming - Assignment 1](https://github.com/Arnith86/TrowingDice)
 
 <!--
 **Arnith86/Arnith86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
