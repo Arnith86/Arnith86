@@ -24,6 +24,7 @@ I’m currently working on remaking some of my school assignments. I want to see
 ## Contributions and projects
 ### How much I have improved
 - [Remade - Assignment 1 - Throwing Dice](https://github.com/Arnith86/TrowingDice)
+- [Remade with UI - Assignment 1 - Throwing Dice](https://github.com/Arnith86/ThrowingDiceGUI) [Current project]
 ### School projects
 - [Distributed systems Assignment](https://github.com/Arnith86/DSAssignment)
 - [Thesis Scheduling Job Order Balancing](https://github.com/SweGuitar10/Scheduling-Job-Order-Balancing)
