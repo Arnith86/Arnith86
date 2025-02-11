@@ -15,7 +15,7 @@ I’m currently working on remaking some of my school assignments. I want to see
 
 ## I have worked with 
 
-<img src="https://img.shields.io/badge/-JUnit-dddddd?" alt="JUnit"> <img src="https://img.shields.io/badge/-MariaDB-dddddd?logo=mariadb&logoColor=#003545&style=for-the-badge&logoWidth=30" alt="MariaDB"> <img src="https://img.shields.io/badge/-ZeroMQ-dddddd?" alt="ZeroMQ"> <img src="https://img.shields.io/badge/-HTML-dddddd?" alt="HTML">  <img src="https://img.shields.io/badge/-Html-dddddd?logo=mariadb&logoColor=#003545&style=for-the-badge&logoWidth=30" alt="MariaDB">
+<img src="https://img.shields.io/badge/-JUnit-dddddd?" alt="JUnit"> <img src="https://img.shields.io/badge/-MariaDB-dddddd?logo=mariadb&logoColor=#003545&style=for-the-badge&logoWidth=30" alt="MariaDB"> <img src="https://img.shields.io/badge/-ZeroMQ-dddddd?" alt="ZeroMQ"> <img src="https://img.shields.io/badge/-HTML-dddddd?" alt="HTML">  <img src="https://img.shields.io/badge/-Html-dddddd?logo=mariadb&logoColor=#003545&style=for-the-badge&logoWidth=30" alt="MariaDB"> <img src="https://img.shields.io/badge/-Avalonia UI-dddddd?" alt="Avalonia UI">
 
 
 ## In my learning list
