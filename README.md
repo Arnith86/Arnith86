@@ -23,12 +23,12 @@ I’m currently working on remaking some of my school assignments. I want to see
 
 ## Contributions and projects
 ### How much I have improved
-- [Remade - Assignment 1 - Throwing Dice](https://github.com/Arnith86/TrowingDice)
-- [Remade with UI - Assignment 1 - Throwing Dice](https://github.com/Arnith86/ThrowingDiceGUI)
 - [Remade - OOP Assignment 4 - Black Jack Game](https://github.com/Arnith86/BlackJackOOPV2) [Current project]
+- [Remade with UI - Assignment 1 - Throwing Dice](https://github.com/Arnith86/ThrowingDiceGUI)
+- [Remade - Assignment 1 - Throwing Dice](https://github.com/Arnith86/TrowingDice)
 ### School projects
-- [Distributed systems Assignment](https://github.com/Arnith86/DSAssignment)
 - [Thesis Scheduling Job Order Balancing](https://github.com/SweGuitar10/Scheduling-Job-Order-Balancing)
+- [Distributed systems Assignment](https://github.com/Arnith86/DSAssignment)
 ### Challenges & Tests
 - [Programming Challenges and Aptitude tests](https://github.com/Arnith86/ProgrammingChallenges)
 
