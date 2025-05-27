@@ -22,11 +22,14 @@ I’m currently working on remaking some of my school assignments. I want to see
 <img src="https://img.shields.io/badge/-Docker-36F1DF?logo=docker&logoColor=#2496ED&style=for-the-badge&logoWidth=30" alt="Docker"> <img src="https://img.shields.io/badge/-NODEJS-36F1DF?logo=nodedotjs&logoColor=#5FA04E&style=for-the-badge&logoWidth=30" alt="NODEJS"> 
 
 ## Contributions and projects
+### School Exercises and Projects
+- [Lexicon Exercise 1](https://github.com/Arnith86/LexiconExercise1)
+- [Lexicon Exercise 2](https://github.com/Arnith86/LexiconExercise2) 
 ### How much I have improved
 - [Remade - OOP Assignment 4 - Black Jack Game](https://github.com/Arnith86/BlackJackOOPV2) [Current project]
 - [Remade with UI - Assignment 1 - Throwing Dice](https://github.com/Arnith86/ThrowingDiceGUI)
 - [Remade - Assignment 1 - Throwing Dice](https://github.com/Arnith86/TrowingDice)
-### School projects
+### Old School projects
 - [Thesis Scheduling Job Order Balancing](https://github.com/SweGuitar10/Scheduling-Job-Order-Balancing)
 - [Distributed systems Assignment](https://github.com/Arnith86/DSAssignment)
 ### Challenges & Tests
