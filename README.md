@@ -23,8 +23,9 @@ I’m currently working on remaking some of my school assignments. I want to see
 
 ## Contributions and projects
 ### School Exercises and Projects
-- [Lexicon Exercise 1](https://github.com/Arnith86/LexiconExercise1)
-- [Lexicon Exercise 2](https://github.com/Arnith86/LexiconExercise2) 
+- [Lexicon Exercise 1 - Timed knowledge check](https://github.com/Arnith86/LexiconExercise1)
+- [Lexicon Exercise 2 - Flow using loops and string manipulation](https://github.com/Arnith86/LexiconExercise2) 
+- [Lexicon Exercise 3 - C# Mini-Project: Pokémon Trainer Simulator (Inheritance Exercise)](https://github.com/Arnith86/LexiconExercise3_PokemonTrainerSimulator) 
 ### How much I have improved
 - [Remade - OOP Assignment 4 - Black Jack Game](https://github.com/Arnith86/BlackJackOOPV2) [Current project]
 - [Remade with UI - Assignment 1 - Throwing Dice](https://github.com/Arnith86/ThrowingDiceGUI)
