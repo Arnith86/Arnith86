@@ -23,6 +23,7 @@ I’m currently working on remaking some of my school assignments. I want to see
 
 ## Contributions and projects
 ### School Exercises and Projects
+-  [Lexicon Exercise 4 -Memory Management](https://github.com/Arnith86/LexiconExercise4_MemoryManagement) [In Progress]
 -  [Lexicon Optional Assignment Hangman](https://github.com/Arnith86/Lexicon_Assignment_Hangman) [In Progress]
 -  [Lexicon Exercise 3 - C# Mini-Project: Pokémon Trainer Simulator (Inheritance Exercise)](https://github.com/Arnith86/LexiconExercise3_PokemonTrainerSimulator)
 -  [Lexicon Exercise 2 - Flow using loops and string manipulation](https://github.com/Arnith86/LexiconExercise2) 
