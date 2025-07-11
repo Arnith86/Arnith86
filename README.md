@@ -23,6 +23,8 @@ I’m currently working on remaking some of my school assignments. I want to see
 
 ## Contributions and projects
 ### School Exercises and Projects
+-  [Lexicon Exercise 7 - Movie API - EF Core](https://github.com/Arnith86/LexiconExercise7_Movie_API_EF_Core) 
+-  [Lexicon Exercise 6 - Storage API](https://github.com/Arnith86/LexiconExercise6_Storage_API) 
 -  [Lexicon Exercise 5 - Garage](https://github.com/Arnith86/LexiconExercise5_Garage) 
 -  [Lexicon Exercise 4 - Memory Management](https://github.com/Arnith86/LexiconExercise4_MemoryManagement) 
 -  [Lexicon Optional Assignment - Hangman](https://github.com/Arnith86/Lexicon_Assignment_Hangman) [In Progress]
