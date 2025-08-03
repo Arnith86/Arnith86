@@ -3,7 +3,7 @@
 
 I am a newly graduated Software Engineer (class of 2024) based in Sweden. My primary expertise lies in backend development, but I am always eager to expand my skill set. I thrive on tackling programming challenges that push me out of my comfort zone, allowing me to discover innovative and efficient solutions while continually learning and growing.
 
-I’m currently working on remaking some of my school assignments. I want to see how my experience has improved my skills and approach to solving problems compared to when I first completed them.  
+I'm currently studying a full-stack development program — a supplementary training program — at Luleå University of Technology and Lexicon IT Proffs. It includes C#, .NET, TypeScript, and Entity Framework Core, among other languages and frameworks.
 
 ## Ways to connect!
 [<img src="https://img.shields.io/badge/-LinkedIn-BA1114?logo=linkedin&logoColor#0072b1&style=for-the-badge&logoWidth=30" alt="LinkedIn">](https://www.linkedin.com/in/jean-paul-hanna-0a29b617a/) 
