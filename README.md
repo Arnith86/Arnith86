@@ -23,6 +23,7 @@ I'm currently studying a full-stack development program — a supplementary trai
 
 ## Contributions and projects
 ### School Exercises and Projects
+-  [Lexicon Exercise 9 - My Favorite Recipe HTMLCSS](https://github.com/Arnith86/LexiconExercise9_MyFavoriteRecipe_HTML_CSS#)
 -  [Lexicon Exercise 7 & 8 - Movie API - EF Core](https://github.com/Arnith86/LexiconExercise_Movie_API_EF_Core) 
 -  [Lexicon Exercise 6 - Storage API](https://github.com/Arnith86/LexiconExercise6_Storage_API) 
 -  [Lexicon Exercise 5 - Garage](https://github.com/Arnith86/LexiconExercise5_Garage) 
