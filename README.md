@@ -15,7 +15,8 @@ I'm currently studying a full-stack development program — a supplementary trai
 
 ## I have worked with 
 
-<img src="https://img.shields.io/badge/-JUnit-dddddd?" alt="JUnit"> <img src="https://img.shields.io/badge/-XUnit-dddddd?" alt="XUnit"> <img src="https://img.shields.io/badge/-MariaDB-dddddd?logo=mariadb&logoColor=#003545&style=for-the-badge&logoWidth=30" alt="MariaDB"> <img src="https://img.shields.io/badge/-ZeroMQ-dddddd?" alt="ZeroMQ"> <img src="https://img.shields.io/badge/-HTML-dddddd?logo=html5" alt="HTML">   <img src="https://img.shields.io/badge/-ReactiveUI-dddddd?" alt="ReactiveUI"> <img src="https://img.shields.io/badge/-Avalonia UI-dddddd?logo=avaloniaui&logoColor=#165BFF&style=for-the-badge&logoWidth=30" alt="Avalonia UI"> <img src="https://img.shields.io/badge/-CSS-FFA500?logo=css&logoColor=#512BD4&style=for-the-badge&logoWidth=30" alt="CSS">
+<img src="https://img.shields.io/badge/-JUnit-fddddd?style=for-the-badge&logoWidth=30" alt="JUnit"> <img src="https://img.shields.io/badge/-XUnit-fddddd?style=for-the-badge&logoWidth=30" alt="XUnit"> <img src="https://img.shields.io/badge/-MariaDB-fddddd?logo=mariadb&style=for-the-badge&logoWidth=30" alt="MariaDB"> 
+<img src="https://img.shields.io/badge/-ZeroMQ-fddddd?style=for-the-badge&logoWidth=30" alt="ZeroMQ"> <img src="https://img.shields.io/badge/-HTML-fddddd?logo=html5&style=for-the-badge&logoWidth=30" alt="HTML"> <img src="https://img.shields.io/badge/-ReactiveUI-fddddd?style=for-the-badge&logoWidth=30" alt="ReactiveUI"> <img src="https://img.shields.io/badge/-Avalonia UI-fddddd?logo=avaloniaui&style=for-the-badge&logoWidth=30" alt="Avalonia UI"> <img src="https://img.shields.io/badge/-CSS-fddddd?logo=css&logoColor=165BFF&style=for-the-badge&logoWidth=30" alt="CSS">
 
 
 ## In my learning list
