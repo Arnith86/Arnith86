@@ -15,7 +15,7 @@ I'm currently studying a full-stack development program — a supplementary trai
 
 ## I have worked with 
 
-<img src="https://img.shields.io/badge/-JUnit-dddddd?" alt="JUnit"> <img src="https://img.shields.io/badge/-XUnit-dddddd?" alt="XUnit"> <img src="https://img.shields.io/badge/-MariaDB-dddddd?logo=mariadb&logoColor=#003545&style=for-the-badge&logoWidth=30" alt="MariaDB"> <img src="https://img.shields.io/badge/-ZeroMQ-dddddd?" alt="ZeroMQ"> <img src="https://img.shields.io/badge/-HTML-dddddd?logo=html5" alt="HTML">   <img src="https://img.shields.io/badge/-ReactiveUI-dddddd?" alt="ReactiveUI"> <img src="https://img.shields.io/badge/-Avalonia UI-dddddd?logo=avaloniaui&logoColor=#165BFF&style=for-the-badge&logoWidth=30" alt="Avalonia UI"> 
+<img src="https://img.shields.io/badge/-JUnit-dddddd?" alt="JUnit"> <img src="https://img.shields.io/badge/-XUnit-dddddd?" alt="XUnit"> <img src="https://img.shields.io/badge/-MariaDB-dddddd?logo=mariadb&logoColor=#003545&style=for-the-badge&logoWidth=30" alt="MariaDB"> <img src="https://img.shields.io/badge/-ZeroMQ-dddddd?" alt="ZeroMQ"> <img src="https://img.shields.io/badge/-HTML-dddddd?logo=html5" alt="HTML">   <img src="https://img.shields.io/badge/-ReactiveUI-dddddd?" alt="ReactiveUI"> <img src="https://img.shields.io/badge/-Avalonia UI-dddddd?logo=avaloniaui&logoColor=#165BFF&style=for-the-badge&logoWidth=30" alt="Avalonia UI"> <img src="https://img.shields.io/badge/-CSS-FFA500?logo=css&logoColor=#512BD4&style=for-the-badge&logoWidth=30" alt="CSS">
 
 
 ## In my learning list
