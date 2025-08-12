@@ -9,18 +9,16 @@ I'm currently studying a full-stack development program — a supplementary trai
 [<img src="https://img.shields.io/badge/-LinkedIn-BA1114?logo=linkedin&logoColor#0072b1&style=for-the-badge&logoWidth=30" alt="LinkedIn">](https://www.linkedin.com/in/jean-paul-hanna-0a29b617a/) 
 
 ## Skills
-<img src="https://img.shields.io/badge/-.NET-00008B?logo=dotnet&logoColor=#512BD4&style=for-the-badge&logoWidth=30" alt=".NET"> <img src="https://img.shields.io/badge/-CSharp-00008B?logo=csharp&logoColor=#777BB4&style=for-the-badge&logoWidth=30" alt="CSharp"> <img src="https://img.shields.io/badge/-PHP-00008B?logo=php&logoColor=#777BB4&style=for-the-badge&logoWidth=30" alt="PHP"> <img src="https://img.shields.io/badge/-MySQL-00008B?logo=mysql&logoColor=#4479A1&style=for-the-badge&logoWidth=30" alt="MySQL"> 
-<img src="https://img.shields.io/badge/-GitHub-FFA500?logo=github&logoColor=#181717&style=for-the-badge&logoWidth=30" alt="GitHub">  <img src="https://img.shields.io/badge/-Visual Studio-FFA500" alt="Visual Studio"> 
-<img src="https://img.shields.io/badge/-Eclipse IDE-FFA500?logo=eclipseide&logoColor=#2C2255&style=for-the-badge&logoWidth=30" alt="EclipseIDE">
+<img src="https://img.shields.io/badge/-.NET-F5F5F5?logo=dotnet&logoColor=512BD4&style=for-the-badge&logoWidth=30" alt=".NET"> <img src="https://img.shields.io/badge/-CSharp-F5F5F5?logo=csharp&logoColor=777BB4&style=for-the-badge&logoWidth=30" alt="CSharp"> <img src="https://img.shields.io/badge/-PHP-F5F5F5?logo=php&logoColor=777BB4&style=for-the-badge&logoWidth=30" alt="PHP"> <img src="https://img.shields.io/badge/-MySQL-F5F5F5?logo=mysql&logoColor=4479A1&style=for-the-badge&logoWidth=30" alt="MySQL"> <img src="https://img.shields.io/badge/-GitHub-CBCBCB?logo=github&logoColor=181717&style=for-the-badge&logoWidth=30" alt="GitHub"> <img src="https://img.shields.io/badge/-Visual Studio-CBCBCB?logo=visualstudio&style=for-the-badge&logoWidth=30" alt="Visual Studio"> <img src="https://img.shields.io/badge/-Eclipse IDE-CBCBCB?logo=eclipseide&logoColor=2C2255&style=for-the-badge&logoWidth=30" alt="EclipseIDE">
 
 ## I have worked with 
 
 <img src="https://img.shields.io/badge/-JUnit-fddddd?style=for-the-badge&logoWidth=30" alt="JUnit"> <img src="https://img.shields.io/badge/-XUnit-fddddd?style=for-the-badge&logoWidth=30" alt="XUnit"> <img src="https://img.shields.io/badge/-MariaDB-fddddd?logo=mariadb&style=for-the-badge&logoWidth=30" alt="MariaDB"> 
-<img src="https://img.shields.io/badge/-ZeroMQ-fddddd?style=for-the-badge&logoWidth=30" alt="ZeroMQ"> <img src="https://img.shields.io/badge/-HTML-fddddd?logo=html5&style=for-the-badge&logoWidth=30" alt="HTML"> <img src="https://img.shields.io/badge/-ReactiveUI-fddddd?style=for-the-badge&logoWidth=30" alt="ReactiveUI"> <img src="https://img.shields.io/badge/-Avalonia UI-fddddd?logo=avaloniaui&style=for-the-badge&logoWidth=30" alt="Avalonia UI"> <img src="https://img.shields.io/badge/-CSS-fddddd?logo=css&logoColor=165BFF&style=for-the-badge&logoWidth=30" alt="CSS">
+<img src="https://img.shields.io/badge/-ZeroMQ-fddddd?style=for-the-badge&logoWidth=30" alt="ZeroMQ"> <img src="https://img.shields.io/badge/-HTML-fddddd?logo=html5&style=for-the-badge&logoWidth=30" alt="HTML"> <img src="https://img.shields.io/badge/-ReactiveUI-fddddd?style=for-the-badge&logoWidth=30" alt="ReactiveUI"> <img src="https://img.shields.io/badge/-Avalonia UI-fddddd?logo=avaloniaui&style=for-the-badge&logoWidth=30" alt="Avalonia UI"> <img src="https://img.shields.io/badge/-CSS-fddddd?logo=css&logoColor=165BFF&style=for-the-badge&logoWidth=30" alt="CSS"> <img src="https://img.shields.io/badge/-javascript-fddddd?logo=javascript&style=for-the-badge&logoWidth=30" alt="JAVASCRIPT">
 
 
 ## In my learning list
-<img src="https://img.shields.io/badge/-Docker-36F1DF?logo=docker&logoColor=#2496ED&style=for-the-badge&logoWidth=30" alt="Docker"> <img src="https://img.shields.io/badge/-NODEJS-36F1DF?logo=nodedotjs&logoColor=#5FA04E&style=for-the-badge&logoWidth=30" alt="NODEJS"> 
+<img src="https://img.shields.io/badge/-Docker-36F1DF?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker"> <img src="https://img.shields.io/badge/-NODEJS-36F1DF?logo=nodedotjs&logoColor=5FA04E&style=for-the-badge&logoWidth=30" alt="NODEJS"> 
 
 ## Contributions and projects
 ### School Exercises and Projects
