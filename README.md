@@ -22,6 +22,7 @@ I'm currently studying a full-stack development program — a supplementary trai
 
 ## Contributions and projects
 ### School Exercises and Projects
+-  [Lexicon Exercise 11 – DOM Manipulation](https://github.com/Arnith86/LexiconExercise11_TS_Recipe_Manipulation_MOD)
 -  [Lexicon Exercise 10 - Caffe Retro HTML CSS Flex Responsive](https://github.com/Arnith86/LexiconExercise10_Caffe_Retro_HTML_CSS_Flex_Responsive)
 -  [Lexicon Exercise 9 - My Favorite Recipe HTML CSS](https://github.com/Arnith86/LexiconExercise9_MyFavoriteRecipe_HTML_CSS#)
 -  [Lexicon Exercise 7 & 8 - Movie API - EF Core](https://github.com/Arnith86/LexiconExercise_Movie_API_EF_Core) 
