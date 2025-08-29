@@ -24,6 +24,7 @@ I'm currently studying a full-stack development program — a supplementary trai
 
 ## Contributions and projects
 ### School Exercises and Projects
+-  [Lexicon Exercise 15 - React_Todo_List](https://github.com/Arnith86/LexiconExercise15_React_Todo_List)
 -  [Lexicon Exercise 14 - React Media Player React TS CSS](https://github.com/Arnith86/LexiconExercise14_React_Media_Player_TS_CSS_React)
 -  [Lexicon Exercise 13 - Caffe Retro React Edition](https://github.com/Arnith86/LexiconExercise13_Caffe_Retro_React_Edition)
 -  [Lexicon Exercise 12 – Blog Post Manager TS DOM CSS](https://github.com/Arnith86/LexiconExercise12_TS_Blog_Post_Manager)
