@@ -22,7 +22,7 @@ I'm currently studying a full-stack development program — a supplementary trai
 
 ## Contributions and projects
 ### School Exercises and Projects
--  [Lexicon Exercise 16 - React Cocktail Api](https://github.com/Arnith86/LexiconExercise16_React_Cocktail_Api)
+-  [Lexicon Exercise 16 - React Cocktail Api](https://github.com/Arnith86/LexiconExercise16_React_Cocktail_Api)[In Progress]
 -  [Lexicon Exercise 15 - React Todo List](https://github.com/Arnith86/LexiconExercise15_React_Todo_List)
 -  [Lexicon Exercise 14 - React Media Player React TS CSS](https://github.com/Arnith86/LexiconExercise14_React_Media_Player_TS_CSS_React)
 -  [Lexicon Exercise 13 - Caffe Retro React Edition](https://github.com/Arnith86/LexiconExercise13_Caffe_Retro_React_Edition)
@@ -34,7 +34,7 @@ I'm currently studying a full-stack development program — a supplementary trai
 -  [Lexicon Exercise 6 - Storage API](https://github.com/Arnith86/LexiconExercise6_Storage_API) 
 -  [Lexicon Exercise 5 - Garage](https://github.com/Arnith86/LexiconExercise5_Garage) 
 -  [Lexicon Exercise 4 - Memory Management](https://github.com/Arnith86/LexiconExercise4_MemoryManagement) 
--  [Lexicon Optional Assignment - Hangman](https://github.com/Arnith86/Lexicon_Assignment_Hangman) [In Progress]
+-  [Lexicon Optional Assignment - Hangman](https://github.com/Arnith86/Lexicon_Assignment_Hangman) [On Hold]
 -  [Lexicon Exercise 3 - C# Mini-Project: Pokémon Trainer Simulator (Inheritance Exercise)](https://github.com/Arnith86/LexiconExercise3_PokemonTrainerSimulator)
 -  [Lexicon Exercise 2 - Flow using loops and string manipulation](https://github.com/Arnith86/LexiconExercise2) 
 -  [Lexicon Exercise 1 - Timed knowledge check](https://github.com/Arnith86/LexiconExercise1)
