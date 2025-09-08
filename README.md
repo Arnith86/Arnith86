@@ -42,7 +42,7 @@ I'm currently studying a full-stack development program — a supplementary trai
 
  
 ### How much I have improved
-- [Remade - OOP Assignment 4 - Black Jack Game](https://github.com/Arnith86/BlackJackOOPV2) [Current project]
+- [Remade - OOP Assignment 4 - Black Jack Game](https://github.com/Arnith86/BlackJackOOPV2) [On Hold]
 - [Remade with UI - Assignment 1 - Throwing Dice](https://github.com/Arnith86/ThrowingDiceGUI)
 - [Remade - Assignment 1 - Throwing Dice](https://github.com/Arnith86/TrowingDice)
 ### Old School projects
